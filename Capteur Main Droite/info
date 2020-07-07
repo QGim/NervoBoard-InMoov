@@ -1,0 +1,106 @@
+{
+  "uuid": "7c14d0172eaed509bf8fa8222a21ada8",
+  "path": "Offline/Capteur Main Droite",
+  "name": "Capteur Main Droite",
+  "content": "",
+  "created_at": "2020-07-07 19:04:37",
+  "updated_at": "2020-07-07 20:15:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "43614664ae5c2d28fcd608624d66a8f7",
+      "title": "Capteur Right Hand",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 7,
+        "d5a242b34a15136a5ac96f2a046ebc0f": 1,
+        "007172a8a83b4d229a59ace2dc5f2fca": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1",
+          7,
+          "HDR-TH_3P-P2.54-V",
+          "CAPT_AUTRE2,CAPT_AUTRE1,CAPT_AURI1,CAPT_ANNU1,CAPT_MAJEUR1,CAPT_INDEX1,CAPT_POUCE1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Header2.54mm 1*3P",
+            "BOM_Supplier Part": "C49257",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "21f8f80a3f7c3c2b00b33f71a31ff6ef"
+          }
+        ],
+        [
+          "Reseau_Res_2mm",
+          1,
+          "RESEAU7R_2MM",
+          "P1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b24532b1b89547e4ab187ad52d6fea17",
+            "uuid": "007172a8a83b4d229a59ace2dc5f2fca"
+          }
+        ],
+        [
+          "Horn connector/2.0mm2*7P",
+          1,
+          "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
+          "OUT1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Horn connector/2.0mm2*7P直简牛",
+            "BOM_Supplier Part": "C29428",
+            "puuid": "4cafa7ba078b40eba5680c02055ccdeb",
+            "uuid": "d5a242b34a15136a5ac96f2a046ebc0f"
+          }
+        ]
+      ],
+      "updateTime": 1594145712,
+      "createTime": 1594141500,
+      "histories": [],
+      "created_at": "2020-07-07 19:05:00",
+      "updated_at": "2020-07-07 20:15:12"
+    },
+    {
+      "uuid": "0b68ddecab596881450737cbbc586bf7",
+      "puuid": "7c14d0172eaed509bf8fa8222a21ada8",
+      "title": "PCB_Capteur Right Hand",
+      "filename": "PCB_Capteur Right Hand.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 7,
+        "b24532b1b89547e4ab187ad52d6fea17": 1,
+        "4cafa7ba078b40eba5680c02055ccdeb": 1
+      },
+      "BOM": [],
+      "updateTime": 1594144002,
+      "createTime": 1594142603,
+      "histories": [],
+      "created_at": "2020-07-07 19:23:23",
+      "updated_at": "2020-07-07 19:46:42"
+    }
+  ],
+  "sort": [],
+  "title": "Capteur Main Droite",
+  "foldername": "Capteur Main Droite",
+  "schfilename": "Capteur Main Droite.json",
+  "schfilemtime": 1594145712436
+}
