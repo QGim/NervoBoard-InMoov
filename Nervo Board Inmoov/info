@@ -1,0 +1,90 @@
+{
+  "uuid": "b5c558bdbf043f7dedb7acd2816f3312",
+  "path": "Offline/Nervo Board Inmoov",
+  "name": "Nervo Board Inmoov",
+  "content": "",
+  "created_at": "2020-07-03 01:20:50",
+  "updated_at": "2020-07-07 13:54:13",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fab610c4b72b1675677e5a67f1ae1bf0",
+      "title": "Right Hand",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d5a242b34a15136a5ac96f2a046ebc0f": 1,
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1",
+          6,
+          "HDR-TH_3P-P2.54-V",
+          "ANNULAIRE,AURICULAIRE,INDEX,MAJEUR,POIGNET,POUCE",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Header2.54mm 1*3P",
+            "BOM_Supplier Part": "C49257",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "21f8f80a3f7c3c2b00b33f71a31ff6ef"
+          }
+        ],
+        [
+          "Horn connector/2.0mm2*7P",
+          1,
+          "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
+          "OUT",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Horn connector/2.0mm2*7P直简牛",
+            "BOM_Supplier Part": "C29428",
+            "puuid": "4cafa7ba078b40eba5680c02055ccdeb",
+            "uuid": "d5a242b34a15136a5ac96f2a046ebc0f"
+          }
+        ]
+      ],
+      "updateTime": 1594122853,
+      "createTime": 1593732676,
+      "histories": [],
+      "created_at": "2020-07-03 01:31:16",
+      "updated_at": "2020-07-07 13:54:13"
+    },
+    {
+      "uuid": "569f7d2827b74118e348e35bf648be62",
+      "puuid": "b5c558bdbf043f7dedb7acd2816f3312",
+      "title": "PCB Right Hand",
+      "filename": "PCB Right Hand.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 6,
+        "4cafa7ba078b40eba5680c02055ccdeb": 1
+      },
+      "BOM": [],
+      "updateTime": 1594080521,
+      "createTime": 1594078795,
+      "histories": [],
+      "created_at": "2020-07-07 01:39:55",
+      "updated_at": "2020-07-07 02:08:41"
+    }
+  ],
+  "sort": [],
+  "title": "Nervo Board Inmoov",
+  "foldername": "Nervo Board Inmoov",
+  "schfilename": "Nervo Board Inmoov.json",
+  "schfilemtime": 1594122853100
+}
