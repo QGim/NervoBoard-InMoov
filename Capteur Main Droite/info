@@ -4,7 +4,7 @@
   "name": "Capteur Main Droite",
   "content": "",
   "created_at": "2020-07-07 19:04:37",
-  "updated_at": "2020-07-07 20:15:12",
+  "updated_at": "2020-07-10 14:22:16",
   "stick": "",
   "documents": [
     {
@@ -87,15 +87,15 @@
       "thumb": "/images/thumb-default.png",
       "components": {
         "7e70b923819e4f3bb9fdeaf4abdca9d3": 7,
-        "b24532b1b89547e4ab187ad52d6fea17": 1,
-        "4cafa7ba078b40eba5680c02055ccdeb": 1
+        "4cafa7ba078b40eba5680c02055ccdeb": 1,
+        "b24532b1b89547e4ab187ad52d6fea17": 1
       },
       "BOM": [],
-      "updateTime": 1594144002,
+      "updateTime": 1594383736,
       "createTime": 1594142603,
       "histories": [],
       "created_at": "2020-07-07 19:23:23",
-      "updated_at": "2020-07-07 19:46:42"
+      "updated_at": "2020-07-10 14:22:16"
     }
   ],
   "sort": [],

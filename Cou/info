@@ -1,22 +1,22 @@
 {
-  "uuid": "acbe6729d8f15afb90dce247fb35e59e",
-  "path": "Offline/Main Droite",
-  "name": "Main Droite",
+  "uuid": "6322b6ddf975ca3856d56eb51722d33b",
+  "path": "Offline/Cou",
+  "name": "Cou",
   "content": "",
-  "created_at": "2020-07-07 14:07:46",
-  "updated_at": "2020-07-10 15:34:27",
+  "created_at": "2020-07-10 15:08:45",
+  "updated_at": "2020-07-10 23:58:59",
   "stick": "",
   "documents": [
     {
-      "uuid": "fd04bbf808f5f1d739f74b3e2b93a00b",
-      "title": "Right Hand",
+      "uuid": "5ffa1fcfde4d7f46139b36c066b2e752",
+      "title": "Neck",
       "description": "",
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
         "d5a242b34a15136a5ac96f2a046ebc0f": 1,
-        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 6
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 2
       },
       "BOM": [
         [
@@ -28,9 +28,9 @@
         ],
         [
           "1",
-          6,
+          2,
           "HDR-TH_3P-P2.54-V",
-          "ANNULAIRE,AURICULAIRE,INDEX,MAJEUR,POIGNET,POUCE",
+          "IN1,IN2",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "BOOMELE",
@@ -44,7 +44,7 @@
           "Horn connector/2.0mm2*7P",
           1,
           "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
-          "OUT",
+          "OUT1",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "BOOMELE",
@@ -55,39 +55,36 @@
           }
         ]
       ],
-      "updateTime": 1594385597,
-      "createTime": 1594123743,
+      "updateTime": 1594387152,
+      "createTime": 1594386810,
       "histories": [],
-      "created_at": "2020-07-07 14:09:03",
-      "updated_at": "2020-07-10 14:53:17"
+      "created_at": "2020-07-10 15:13:30",
+      "updated_at": "2020-07-10 15:19:12"
     },
     {
-      "uuid": "cf6d9eaf7f71fc6a1ba530658b932ec9",
-      "puuid": "acbe6729d8f15afb90dce247fb35e59e",
-      "title": "PCB Right Hand",
-      "filename": "PCB Right Hand.json",
+      "uuid": "2a0257e039b81127cbafb552d35d02e4",
+      "puuid": "6322b6ddf975ca3856d56eb51722d33b",
+      "title": "PCB_Neck",
+      "filename": "PCB_Neck.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "7e70b923819e4f3bb9fdeaf4abdca9d3": 6,
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 2,
         "4cafa7ba078b40eba5680c02055ccdeb": 1
       },
       "BOM": [],
-      "updateTime": 1594388067,
-      "createTime": 1594123730,
+      "updateTime": 1594418339,
+      "createTime": 1594387486,
       "histories": [],
-      "created_at": "2020-07-07 14:08:50",
-      "updated_at": "2020-07-10 15:34:27"
+      "created_at": "2020-07-10 15:24:46",
+      "updated_at": "2020-07-10 23:58:59"
     }
   ],
-  "sort": [
-    "fd04bbf808f5f1d739f74b3e2b93a00b",
-    "972a80bbc8779af97dbcf251e3582908"
-  ],
-  "title": "Main Droite",
-  "foldername": "Main Droite",
-  "schfilename": "Nervo Board InMoov.json",
-  "schfilemtime": 1594385597466
+  "sort": [],
+  "title": "Cou",
+  "foldername": "Cou",
+  "schfilename": "Cou Droit.json",
+  "schfilemtime": 1594387152111
 }

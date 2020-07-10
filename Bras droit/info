@@ -4,7 +4,7 @@
   "name": "Bras droit",
   "content": "",
   "created_at": "2020-07-07 20:28:04",
-  "updated_at": "2020-07-07 20:28:47",
+  "updated_at": "2020-07-10 23:58:04",
   "stick": "",
   "documents": [
     {
@@ -14,7 +14,10 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "components": {},
+      "components": {
+        "d5a242b34a15136a5ac96f2a046ebc0f": 1,
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 4
+      },
       "BOM": [
         [
           "Value",
@@ -22,13 +25,61 @@
           "Package",
           "Components",
           "CustomPara"
+        ],
+        [
+          "1",
+          4,
+          "HDR-TH_3P-P2.54-V",
+          "OMOPLATE,EPAULE,ROTATION,BICEP",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Header2.54mm 1*3P",
+            "BOM_Supplier Part": "C49257",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "21f8f80a3f7c3c2b00b33f71a31ff6ef"
+          }
+        ],
+        [
+          "Horn connector/2.0mm2*7P",
+          1,
+          "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
+          "OUT1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Horn connector/2.0mm2*7P直简牛",
+            "BOM_Supplier Part": "C29428",
+            "puuid": "4cafa7ba078b40eba5680c02055ccdeb",
+            "uuid": "d5a242b34a15136a5ac96f2a046ebc0f"
+          }
         ]
       ],
-      "updateTime": 1594146500,
+      "updateTime": 1594297757,
       "createTime": 1594146500,
       "histories": [],
       "created_at": "2020-07-07 20:28:20",
-      "updated_at": "2020-07-07 20:28:20"
+      "updated_at": "2020-07-09 14:29:17"
+    },
+    {
+      "uuid": "dc0b94317210a6bd8f918bf935e2f81e",
+      "puuid": "ea7b381c5f8d89f5e769ae28d5d3c365",
+      "title": "PCB_Right ARM",
+      "filename": "PCB_Right ARM.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 4,
+        "4cafa7ba078b40eba5680c02055ccdeb": 1
+      },
+      "BOM": [],
+      "updateTime": 1594418284,
+      "createTime": 1594304772,
+      "histories": [],
+      "created_at": "2020-07-09 16:26:12",
+      "updated_at": "2020-07-10 23:58:04"
     }
   ],
   "sort": [
@@ -38,5 +89,5 @@
   "title": "Bras droit",
   "foldername": "Bras droit",
   "schfilename": "Bras droit.json",
-  "schfilemtime": 1594146527817
+  "schfilemtime": 1594297757992
 }
