@@ -4,7 +4,7 @@
   "name": "Capteur Main Droite",
   "content": "",
   "created_at": "2020-07-07 19:04:37",
-  "updated_at": "2020-07-10 14:22:16",
+  "updated_at": "2020-07-12 02:00:50",
   "stick": "",
   "documents": [
     {
@@ -70,14 +70,14 @@
           }
         ]
       ],
-      "updateTime": 1594145712,
+      "updateTime": 1594510891,
       "createTime": 1594141500,
       "histories": [],
       "created_at": "2020-07-07 19:05:00",
-      "updated_at": "2020-07-07 20:15:12"
+      "updated_at": "2020-07-12 01:41:31"
     },
     {
-      "uuid": "0b68ddecab596881450737cbbc586bf7",
+      "uuid": "2e76e7748db5cd2c68989b892ec14f62",
       "puuid": "7c14d0172eaed509bf8fa8222a21ada8",
       "title": "PCB_Capteur Right Hand",
       "filename": "PCB_Capteur Right Hand.json",
@@ -91,16 +91,16 @@
         "b24532b1b89547e4ab187ad52d6fea17": 1
       },
       "BOM": [],
-      "updateTime": 1594383736,
-      "createTime": 1594142603,
+      "updateTime": 1594512050,
+      "createTime": 1594511098,
       "histories": [],
-      "created_at": "2020-07-07 19:23:23",
-      "updated_at": "2020-07-10 14:22:16"
+      "created_at": "2020-07-12 01:44:58",
+      "updated_at": "2020-07-12 02:00:50"
     }
   ],
   "sort": [],
   "title": "Capteur Main Droite",
   "foldername": "Capteur Main Droite",
   "schfilename": "Capteur Main Droite.json",
-  "schfilemtime": 1594145712436
+  "schfilemtime": 1594510891636
 }
