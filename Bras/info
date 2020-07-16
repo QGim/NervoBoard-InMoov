@@ -1,22 +1,22 @@
 {
-  "uuid": "acbe6729d8f15afb90dce247fb35e59e",
-  "path": "Offline/Main Droite",
-  "name": "Main Droite",
+  "uuid": "ea7b381c5f8d89f5e769ae28d5d3c365",
+  "path": "Offline/Bras",
+  "name": "Bras",
   "content": "",
-  "created_at": "2020-07-07 14:07:46",
-  "updated_at": "2020-07-10 15:34:27",
+  "created_at": "2020-07-07 20:28:04",
+  "updated_at": "2020-07-13 01:49:14",
   "stick": "",
   "documents": [
     {
-      "uuid": "fd04bbf808f5f1d739f74b3e2b93a00b",
-      "title": "Right Hand",
+      "uuid": "b20398e0c3721249851974f112377835",
+      "title": "Arm",
       "description": "",
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
         "d5a242b34a15136a5ac96f2a046ebc0f": 1,
-        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 6
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 4
       },
       "BOM": [
         [
@@ -28,9 +28,9 @@
         ],
         [
           "1",
-          6,
+          4,
           "HDR-TH_3P-P2.54-V",
-          "ANNULAIRE,AURICULAIRE,INDEX,MAJEUR,POIGNET,POUCE",
+          "OMOPLATE,EPAULE,ROTATION,BICEP",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "BOOMELE",
@@ -44,7 +44,7 @@
           "Horn connector/2.0mm2*7P",
           1,
           "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
-          "OUT",
+          "OUT1",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "BOOMELE",
@@ -55,39 +55,39 @@
           }
         ]
       ],
-      "updateTime": 1594385597,
-      "createTime": 1594123743,
+      "updateTime": 1594297757,
+      "createTime": 1594146500,
       "histories": [],
-      "created_at": "2020-07-07 14:09:03",
-      "updated_at": "2020-07-10 14:53:17"
+      "created_at": "2020-07-07 20:28:20",
+      "updated_at": "2020-07-09 14:29:17"
     },
     {
-      "uuid": "cf6d9eaf7f71fc6a1ba530658b932ec9",
-      "puuid": "acbe6729d8f15afb90dce247fb35e59e",
-      "title": "PCB Right Hand",
-      "filename": "PCB Right Hand.json",
+      "uuid": "dc0b94317210a6bd8f918bf935e2f81e",
+      "puuid": "ea7b381c5f8d89f5e769ae28d5d3c365",
+      "title": "PCB Arm",
+      "filename": "PCB Arm.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "7e70b923819e4f3bb9fdeaf4abdca9d3": 6,
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 4,
         "4cafa7ba078b40eba5680c02055ccdeb": 1
       },
       "BOM": [],
-      "updateTime": 1594388067,
-      "createTime": 1594123730,
+      "updateTime": 1594597754,
+      "createTime": 1594304772,
       "histories": [],
-      "created_at": "2020-07-07 14:08:50",
-      "updated_at": "2020-07-10 15:34:27"
+      "created_at": "2020-07-09 16:26:12",
+      "updated_at": "2020-07-13 01:49:14"
     }
   ],
   "sort": [
-    "fd04bbf808f5f1d739f74b3e2b93a00b",
-    "972a80bbc8779af97dbcf251e3582908"
+    "b20398e0c3721249851974f112377835",
+    "5ba52855906092be8023f14016d072b3"
   ],
-  "title": "Main Droite",
-  "foldername": "Main Droite",
-  "schfilename": "Nervo Board InMoov.json",
-  "schfilemtime": 1594385597466
+  "title": "Bras",
+  "foldername": "Bras",
+  "schfilename": "Bras droit.json",
+  "schfilemtime": 1594595711580
 }

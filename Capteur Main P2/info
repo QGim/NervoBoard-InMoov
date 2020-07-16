@@ -1,23 +1,23 @@
 {
-  "uuid": "7c14d0172eaed509bf8fa8222a21ada8",
-  "path": "Offline/Capteur Main Droite",
-  "name": "Capteur Main Droite",
+  "uuid": "08204dabc5c37df0e26a0da0086f280f",
+  "path": "Offline/Capteur Main P2",
+  "name": "Capteur Main P2",
   "content": "",
-  "created_at": "2020-07-07 19:04:37",
-  "updated_at": "2020-07-12 02:00:50",
+  "created_at": "2020-07-13 01:49:46",
+  "updated_at": "2020-07-17 01:04:25",
   "stick": "",
   "documents": [
     {
-      "uuid": "43614664ae5c2d28fcd608624d66a8f7",
-      "title": "Capteur Right Hand",
+      "uuid": "60d289a1e9f0f4c98aa86c4576cb4237",
+      "title": "Capteur Main P2",
       "description": "",
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 7,
+        "007172a8a83b4d229a59ace2dc5f2fca": 1,
         "d5a242b34a15136a5ac96f2a046ebc0f": 1,
-        "007172a8a83b4d229a59ace2dc5f2fca": 1
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 7
       },
       "BOM": [
         [
@@ -31,7 +31,7 @@
           "1",
           7,
           "HDR-TH_3P-P2.54-V",
-          "CAPT_AUTRE2,CAPT_AUTRE1,CAPT_AURI1,CAPT_ANNU1,CAPT_MAJEUR1,CAPT_INDEX1,CAPT_POUCE1",
+          "CAPT_POUCE1,CAPT_INDEX1,CAPT_MAJEUR1,CAPT_ANNU1,CAPT_AURI1,CAPT_AUTRE1,CAPT_AUTRE2",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "BOOMELE",
@@ -70,17 +70,17 @@
           }
         ]
       ],
-      "updateTime": 1594510891,
-      "createTime": 1594141500,
+      "updateTime": 1594597933,
+      "createTime": 1594597837,
       "histories": [],
-      "created_at": "2020-07-07 19:05:00",
-      "updated_at": "2020-07-12 01:41:31"
+      "created_at": "2020-07-13 01:50:37",
+      "updated_at": "2020-07-13 01:52:13"
     },
     {
-      "uuid": "2e76e7748db5cd2c68989b892ec14f62",
+      "uuid": "eef51b2689cc936ff1a6bd776efb5c02",
       "puuid": "7c14d0172eaed509bf8fa8222a21ada8",
-      "title": "PCB_Capteur Right Hand",
-      "filename": "PCB_Capteur Right Hand.json",
+      "title": "PCB Capteur Hand P2",
+      "filename": "PCB Capteur Hand P2.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -91,16 +91,16 @@
         "b24532b1b89547e4ab187ad52d6fea17": 1
       },
       "BOM": [],
-      "updateTime": 1594512050,
-      "createTime": 1594511098,
+      "updateTime": 1594940665,
+      "createTime": 1594940665,
       "histories": [],
-      "created_at": "2020-07-12 01:44:58",
-      "updated_at": "2020-07-12 02:00:50"
+      "created_at": "2020-07-17 01:04:25",
+      "updated_at": "2020-07-17 01:04:25"
     }
   ],
   "sort": [],
-  "title": "Capteur Main Droite",
-  "foldername": "Capteur Main Droite",
-  "schfilename": "Capteur Main Droite.json",
-  "schfilemtime": 1594510891636
+  "title": "Capteur Main P2",
+  "foldername": "Capteur Main P2",
+  "schfilename": "Capteur Main P2.json",
+  "schfilemtime": 1594597933109
 }

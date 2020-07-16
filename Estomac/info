@@ -1,15 +1,15 @@
 {
-  "uuid": "ea7b381c5f8d89f5e769ae28d5d3c365",
-  "path": "Offline/Bras droit",
-  "name": "Bras droit",
+  "uuid": "5c48181f9f63a98157c4bd1cbfa0e5aa",
+  "path": "Offline/Estomac",
+  "name": "Estomac",
   "content": "",
-  "created_at": "2020-07-07 20:28:04",
-  "updated_at": "2020-07-12 02:02:01",
+  "created_at": "2020-07-17 01:15:24",
+  "updated_at": "2020-07-17 01:25:15",
   "stick": "",
   "documents": [
     {
-      "uuid": "b20398e0c3721249851974f112377835",
-      "title": "Arm Right",
+      "uuid": "17d7025e4f9116ddbb5b5d28d796be0f",
+      "title": "Stomac",
       "description": "",
       "docType": "1",
       "master": "",
@@ -30,7 +30,7 @@
           "1",
           4,
           "HDR-TH_3P-P2.54-V",
-          "OMOPLATE,EPAULE,ROTATION,BICEP",
+          "AUTRE1,MIDMASTER,LOWMASTER,AUTRE2",
           {
             "BOM_Supplier": "LCSC",
             "BOM_Manufacturer": "BOOMELE",
@@ -55,17 +55,17 @@
           }
         ]
       ],
-      "updateTime": 1594297757,
-      "createTime": 1594146500,
+      "updateTime": 1594941773,
+      "createTime": 1594941384,
       "histories": [],
-      "created_at": "2020-07-07 20:28:20",
-      "updated_at": "2020-07-09 14:29:17"
+      "created_at": "2020-07-17 01:16:24",
+      "updated_at": "2020-07-17 01:22:53"
     },
     {
-      "uuid": "dc0b94317210a6bd8f918bf935e2f81e",
-      "puuid": "ea7b381c5f8d89f5e769ae28d5d3c365",
-      "title": "PCB_Right ARM",
-      "filename": "PCB_Right ARM.json",
+      "uuid": "5e81d45423a463122ef1a9f0ddd68261",
+      "puuid": "5c48181f9f63a98157c4bd1cbfa0e5aa",
+      "title": "PCB_Stomac",
+      "filename": "PCB_Stomac.json",
       "description": "",
       "docType": "3",
       "master": "",
@@ -75,19 +75,18 @@
         "4cafa7ba078b40eba5680c02055ccdeb": 1
       },
       "BOM": [],
-      "updateTime": 1594512121,
-      "createTime": 1594304772,
+      "updateTime": 1594941915,
+      "createTime": 1594941877,
       "histories": [],
-      "created_at": "2020-07-09 16:26:12",
-      "updated_at": "2020-07-12 02:02:01"
+      "created_at": "2020-07-17 01:24:37",
+      "updated_at": "2020-07-17 01:25:15"
     }
   ],
   "sort": [
-    "b20398e0c3721249851974f112377835",
-    "5ba52855906092be8023f14016d072b3"
+    "17d7025e4f9116ddbb5b5d28d796be0f"
   ],
-  "title": "Bras droit",
-  "foldername": "Bras droit",
-  "schfilename": "Bras droit.json",
-  "schfilemtime": 1594297757992
+  "title": "Estomac",
+  "foldername": "Estomac",
+  "schfilename": "Estomac.json",
+  "schfilemtime": 1594941773125
 }
