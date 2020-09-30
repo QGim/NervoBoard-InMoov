@@ -1,0 +1,55 @@
+{
+  "uuid": "072efc984f09454f93583ed6c38bdb8d",
+  "path": "Offline/Shield Méga",
+  "name": "Shield Méga",
+  "content": "",
+  "created_at": "2020-09-26 17:29:25",
+  "updated_at": "2020-09-26 17:53:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c819d651175875049d8eff8eb5c6fbc0",
+      "title": "Shield",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e9a33b35fad64d84a57ce012ad7dc19a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "ARDUINO_MEGA_SHIELD",
+          1,
+          "ARDUINO_MEGA_SHIELD",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "cfeebe67658b46b981c69673f4a843b7",
+            "uuid": "e9a33b35fad64d84a57ce012ad7dc19a"
+          }
+        ]
+      ],
+      "updateTime": 1601135603,
+      "createTime": 1601134513,
+      "histories": [],
+      "created_at": "2020-09-26 17:35:13",
+      "updated_at": "2020-09-26 17:53:23"
+    }
+  ],
+  "sort": [
+    "c819d651175875049d8eff8eb5c6fbc0",
+    "f6deafc75062b9183eef378f86bc54ad"
+  ],
+  "title": "Shield Méga",
+  "foldername": "Shield Méga",
+  "schfilename": "Shield Méga.json",
+  "schfilemtime": 1601135603392
+}

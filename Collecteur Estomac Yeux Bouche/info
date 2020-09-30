@@ -1,0 +1,90 @@
+{
+  "uuid": "529c2bcfaa864bb674abe862edf94e40",
+  "path": "Offline/Collecteur Estomac Yeux Bouche",
+  "name": "Collecteur Estomac Yeux Bouche",
+  "content": "",
+  "created_at": "2020-09-23 23:02:10",
+  "updated_at": "2020-09-24 14:56:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4ab78c113d4f4486e61f72fe8588be95",
+      "title": "Collecteur 2",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d5a242b34a15136a5ac96f2a046ebc0f": 2,
+        "ce91631041f646fd9775777b794167dd": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x10",
+          1,
+          "HDR-M-2.54_1X10",
+          "J1",
+          {
+            "BOM_Supplier Part": "C57369",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "0163104799714461abf84081b4477301",
+            "uuid": "ce91631041f646fd9775777b794167dd"
+          }
+        ],
+        [
+          "Horn connector/2.0mm2*7P",
+          2,
+          "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
+          "OUT3,OUT1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Horn connector/2.0mm2*7P直简牛",
+            "BOM_Supplier Part": "C29428",
+            "puuid": "4cafa7ba078b40eba5680c02055ccdeb",
+            "uuid": "d5a242b34a15136a5ac96f2a046ebc0f"
+          }
+        ]
+      ],
+      "updateTime": 1600948750,
+      "createTime": 1600946163,
+      "histories": [],
+      "created_at": "2020-09-24 13:16:03",
+      "updated_at": "2020-09-24 13:59:10"
+    },
+    {
+      "uuid": "207b04754c0111abd5d96de56d24551c",
+      "puuid": "529c2bcfaa864bb674abe862edf94e40",
+      "title": "PCB_Cllecteur2",
+      "filename": "PCB_Cllecteur2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0163104799714461abf84081b4477301": 1,
+        "4cafa7ba078b40eba5680c02055ccdeb": 2
+      },
+      "BOM": [],
+      "updateTime": 1600952158,
+      "createTime": 1600948844,
+      "histories": [],
+      "created_at": "2020-09-24 14:00:44",
+      "updated_at": "2020-09-24 14:55:58"
+    }
+  ],
+  "sort": [],
+  "title": "Collecteur Estomac Yeux Bouche",
+  "foldername": "Collecteur Estomac Yeux Bouche",
+  "schfilename": "Collecteur Estomac Yeux Bouche.json",
+  "schfilemtime": 1600948750875
+}

@@ -1,0 +1,120 @@
+{
+  "uuid": "13c0461a7f0273bdaf58b8e60b40f06c",
+  "path": "Offline/Collecteur Bras Main Cou",
+  "name": "Collecteur Bras Main Cou",
+  "content": "",
+  "created_at": "2020-08-01 16:20:24",
+  "updated_at": "2020-09-24 14:09:58",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b37b6590a3829fa91fc1235197fb2e1d",
+      "title": "Collecteur1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d5a242b34a15136a5ac96f2a046ebc0f": 3,
+        "92c32ceaaac84139add7ebda884f0a47": 2,
+        "a6449deaedb8419eae7cc80c12c8032d": 2,
+        "f0bc163659d742bc8f021d00cdeb85b2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          2,
+          "HDR-M-2.54_1X8",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C190820",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "fb11a1cdebf6433b8a3c664a100689e6",
+            "uuid": "92c32ceaaac84139add7ebda884f0a47"
+          }
+        ],
+        [
+          "5mm_LED_TH_Blue",
+          2,
+          "LED-TH_BD5.8-P2.54-FD",
+          "LED2,LED3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3270674de653459681213848d7625a65",
+            "uuid": "a6449deaedb8419eae7cc80c12c8032d"
+          }
+        ],
+        [
+          "Horn connector/2.0mm2*7P",
+          3,
+          "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
+          "OUT1,OUT2,OUT3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Horn connector/2.0mm2*7P直简牛",
+            "BOM_Supplier Part": "C29428",
+            "puuid": "4cafa7ba078b40eba5680c02055ccdeb",
+            "uuid": "d5a242b34a15136a5ac96f2a046ebc0f"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R_AXIAL-0.4",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "f0bc163659d742bc8f021d00cdeb85b2"
+          }
+        ]
+      ],
+      "updateTime": 1600878183,
+      "createTime": 1596291627,
+      "histories": [],
+      "created_at": "2020-08-01 16:20:27",
+      "updated_at": "2020-09-23 18:23:03"
+    },
+    {
+      "uuid": "22bae661047b1f931c37e769984b9bf7",
+      "puuid": "13c0461a7f0273bdaf58b8e60b40f06c",
+      "title": "PCB_Collecteur",
+      "filename": "PCB_Collecteur.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fb11a1cdebf6433b8a3c664a100689e6": 2,
+        "3270674de653459681213848d7625a65": 2,
+        "4cafa7ba078b40eba5680c02055ccdeb": 3,
+        "5905db98cde4487fbb177070aa85bbe1": 1
+      },
+      "BOM": [],
+      "updateTime": 1600949398,
+      "createTime": 1600878707,
+      "histories": [],
+      "created_at": "2020-09-23 18:31:47",
+      "updated_at": "2020-09-24 14:09:58"
+    }
+  ],
+  "sort": [],
+  "title": "Collecteur Bras Main Cou",
+  "foldername": "Collecteur Bras Main Cou",
+  "schfilename": "Collecteur Bras Main Cou.json",
+  "schfilemtime": 1600878183113
+}

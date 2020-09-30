@@ -1,0 +1,90 @@
+{
+  "uuid": "da2f4363e08df85da29538a43cc732dd",
+  "path": "Offline/Collecteur analogique",
+  "name": "Collecteur analogique",
+  "content": "",
+  "created_at": "2020-09-24 16:36:01",
+  "updated_at": "2020-09-26 17:01:22",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "6827fe559e56e7047c5bea56295a2b64",
+      "title": "Collecteur 3",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d5a242b34a15136a5ac96f2a046ebc0f": 2,
+        "92c32ceaaac84139add7ebda884f0a47": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_1x8",
+          2,
+          "HDR-M-2.54_1X8",
+          "J1,J2",
+          {
+            "BOM_Supplier Part": "C190820",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "fb11a1cdebf6433b8a3c664a100689e6",
+            "uuid": "92c32ceaaac84139add7ebda884f0a47"
+          }
+        ],
+        [
+          "Horn connector/2.0mm2*7P",
+          2,
+          "IDC-TH_14P-P2.00-V-M-R2-C7-S2.00",
+          "OUT3,OUT1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Horn connector/2.0mm2*7P直简牛",
+            "BOM_Supplier Part": "C29428",
+            "puuid": "4cafa7ba078b40eba5680c02055ccdeb",
+            "uuid": "d5a242b34a15136a5ac96f2a046ebc0f"
+          }
+        ]
+      ],
+      "updateTime": 1601130274,
+      "createTime": 1600958169,
+      "histories": [],
+      "created_at": "2020-09-24 16:36:09",
+      "updated_at": "2020-09-26 16:24:34"
+    },
+    {
+      "uuid": "8ce18485e6152d6780cbc00c8c5ddb5a",
+      "puuid": "da2f4363e08df85da29538a43cc732dd",
+      "title": "PCB_Collecteur ana",
+      "filename": "PCB_Collecteur ana.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fb11a1cdebf6433b8a3c664a100689e6": 2,
+        "4cafa7ba078b40eba5680c02055ccdeb": 2
+      },
+      "BOM": [],
+      "updateTime": 1601132460,
+      "createTime": 1601132301,
+      "histories": [],
+      "created_at": "2020-09-26 16:58:21",
+      "updated_at": "2020-09-26 17:01:00"
+    }
+  ],
+  "sort": [],
+  "title": "Collecteur analogique",
+  "foldername": "Collecteur analogique",
+  "schfilename": "Collecteur analogique.json",
+  "schfilemtime": 1601130274813
+}
